@@ -32,3 +32,7 @@
   top: -18px;
   left: calc(50% - 10px);
 }
+
+p {
+  color: red;
+}
