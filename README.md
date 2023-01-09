@@ -20,9 +20,9 @@ This will be my home page
     - [X] 3.2.2) Merge Style into main ( fast-forward )
     - [X] 3.2.3) Include the CSS into your HTML
     - [X] 3.2.4) Commit the new index.html
-  - [ ] 3.3. First Merge-Commit
-    - [ ] 3.3.1) checkout the branch style
-    - [ ] 3.3.2) Add some more style and commit
-    - [ ] 3.3.3) checkout the branch main
-    - [ ] 3.3.4) Merge the change from style
- - [ ] 4. Remote Repository
+  - [X] 3.3. First Merge-Commit
+    - [X] 3.3.1) checkout the branch style
+    - [X] 3.3.2) Add some more style and commit
+    - [X] 3.3.3) checkout the branch main
+    - [X] 3.3.4) Merge the change from style
+ - [X] 4. Remote Repository
