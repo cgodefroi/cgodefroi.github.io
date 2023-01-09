@@ -7,9 +7,9 @@ This will be my home page
   - [X] 1.2) Amend the previous commit to check the first and second box.
 - [X] 2. Linear History 
   - [X] 2.1) First Commits: index.html
-  - [ ] 2.1.1) Create a bare index.html (just the basic structure with no content)
-  - [ ] 2.1.2) Add and commit some elements about you (Your name, a short bio)
-  - [ ] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
+  - [X] 2.1.1) Create a bare index.html (just the basic structure with no content)
+  - [X] 2.1.2) Add and commit some elements about you (Your name, a short bio)
+  - [X] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
 - [ ] 3. Nonlinear History 
   - [ ] 3.1) First Branch: Style
     - [ ] 3.1.1) Create a branch name style and check it out

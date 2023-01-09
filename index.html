@@ -1,10 +1,62 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title> </title>
-  </head>
-  <body>
+    <head>
+      <style>
+        /* Ajoutez du style pour personnaliser votre site */
+        .container {
+          width: 60%;
+          margin: 0 auto;
+          text-align: center;
+        }
     
-  </body>
-</html>
+        .block {
+          background-color: #eee;
+          border: 1px solid #333;
+          margin: 10px 0;
+          padding: 20px;
+          position: relative;
+        }
+    
+        .block:before {
+          content: "";
+          border-style: solid;
+          border-width: 10px 10px 0 0;
+          border-color: #333 transparent;
+          position: absolute;
+          top: -20px;
+          left: calc(50% - 10px);
+        }
+    
+        .block:after {
+          content: "";
+          border-style: solid;
+          border-width: 10px 10px 0 0;
+          border-color: #eee transparent;
+          position: absolute;
+          top: -18px;
+          left: calc(50% - 10px);
+        }
+      </style>
+    </head>
+    <body>
+      <!-- Créez autant de blocs que vous le souhaitez -->
+      <div class="container">
+        <div class="block">
+          <!-- Ajoutez du contenu au sein de chaque bloc -->
+          <h2>Bloc 1</h2>
+          <p>Personal Info: Clement Godefroi</p>
+        </div>
+        <div class="block">
+          <h2>Bloc 2</h2>
+          <p>Formation : Student in ingeniering school</p>
+        </div>
+        <div class="block">
+          <h2>Bloc 3</h2>
+          <p>Experience : Internship in Bangkok University</p>
+        </div>
+        <div class="block">
+          <h2>Bloc 4</h2>
+          <p>Miscellanous : Rugby & Swimming</p>
+        </div>
+      </div>
+    </body>  
