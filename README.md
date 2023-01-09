@@ -15,11 +15,11 @@ This will be my home page
     - [X] 3.1.1) Create a branch name style and check it out
     - [X] 3.1.2) Create an empty style.css file and commit it
     - [X] 3.1.3) Add some style to your page and commit them
-  - [ ] 3.2) First fast-forward Merge
-    - [ ] 3.2.1) Go back to the main Branch
-    - [ ] 3.2.2) Merge Style into main ( fast-forward )
-    - [ ] 3.2.3) Include the CSS into your HTML
-    - [ ] 3.2.4) Commit the new index.html
+  - [X] 3.2) First fast-forward Merge
+    - [X] 3.2.1) Go back to the main Branch
+    - [X] 3.2.2) Merge Style into main ( fast-forward )
+    - [X] 3.2.3) Include the CSS into your HTML
+    - [X] 3.2.4) Commit the new index.html
   - [ ] 3.3. First Merge-Commit
     - [ ] 3.3.1) checkout the branch style
     - [ ] 3.3.2) Add some more style and commit
