@@ -10,11 +10,11 @@ This will be my home page
   - [X] 2.1.1) Create a bare index.html (just the basic structure with no content)
   - [X] 2.1.2) Add and commit some elements about you (Your name, a short bio)
   - [X] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
-- [ ] 3. Nonlinear History 
-  - [ ] 3.1) First Branch: Style
-    - [ ] 3.1.1) Create a branch name style and check it out
-    - [ ] 3.1.2) Create an empty style.css file and commit it
-    - [ ] 3.1.3) Add some style to your page and commit them
+- [X] 3. Nonlinear History 
+  - [X] 3.1) First Branch: Style
+    - [X] 3.1.1) Create a branch name style and check it out
+    - [X] 3.1.2) Create an empty style.css file and commit it
+    - [X] 3.1.3) Add some style to your page and commit them
   - [ ] 3.2) First fast-forward Merge
     - [ ] 3.2.1) Go back to the main Branch
     - [ ] 3.2.2) Merge Style into main ( fast-forward )
